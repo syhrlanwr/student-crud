@@ -37,4 +37,8 @@ public class Student {
     @NotEmpty(message = "phone number is required")
     @Column(name = "phone_number", nullable = false, unique = true)
     private String phone;
+
+    @NotEmpty(message = "jurusan is required")
+    @Column(name = "jurusan", nullable = false)
+    private String jurusan;
 }
