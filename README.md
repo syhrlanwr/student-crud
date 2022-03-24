@@ -1,4 +1,7 @@
 # student-crud
+
+## Postman Screenshot
+
 Add Student
 
 ![Add Student](img/1.png "Add Student")
@@ -18,3 +21,21 @@ Update Student
 Delete Student
 
 ![Delete Student](img/5.png "Delete Student")
+
+## Web Screenshot
+
+Home
+
+![Home](img/6.png "Home")
+
+Add Student
+
+![Add Student](img/7.png "Add Student")
+
+Edit Student
+
+![Edit Student](img/8.png "Edit Student")
+
+Delete Student
+
+![Delete Student](img/9.png "Delete Student")
